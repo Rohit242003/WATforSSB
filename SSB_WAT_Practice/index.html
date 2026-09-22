@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSB WAT Practice | Word Association Test</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Landing Screen -->
+  <div id="landing" class="screen active">
+    <div class="container">
+      <header>
+        <div class="logo">SSB WAT</div>
+        <h1>Word Association Test</h1>
+        <p class="subtitle">Practice like the real SSB — 60 words · 15 seconds each</p>
+      </header>
+
+      <div class="card instructions">
+        <h2>How it works</h2>
+        <ul>
+          <li>You will see <strong>60 words</strong> one by one</li>
+          <li>Each word stays for exactly <strong>15 seconds</strong></li>
+          <li>Write the first meaningful sentence that comes to your mind</li>
+          <li>No pause between words — stay focused</li>
+        </ul>
+      </div>
+
+      <div class="card upload-section">
+        <h2>Word List</h2>
+        <p class="hint">Default list of common WAT words is already loaded. You can upload your own <code>.txt</code> file (one word per line) to add or replace words.</p>
+        
+        <div class="file-upload">
+          <input type="file" id="wordFile" accept=".txt" hidden>
+          <button type="button" class="btn btn-outline" id="uploadBtn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Upload .txt file
+          </button>
+          <span id="fileName" class="file-name">No file selected</span>
+        </div>
+
+        <div class="upload-options">
+          <label class="radio-label">
+            <input type="radio" name="uploadMode" value="replace" checked>
+            Replace default list
+          </label>
+          <label class="radio-label">
+            <input type="radio" name="uploadMode" value="merge">
+            Add to default list
+          </label>
+        </div>
+
+        <p id="wordCount" class="word-count">Loaded: <strong>0</strong> words</p>
+      </div>
+
+      <div class="actions">
+        <button id="startBtn" class="btn btn-primary btn-lg">
+          Start Practice
+        </button>
+        <p class="note">Tip: Keep a notebook or type responses quickly. Aim for short, positive, original sentences.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Test Screen -->
+  <div id="test" class="screen">
+    <div class="test-header">
+      <div class="progress-info">
+        <span id="progressText">Word 1 / 60</span>
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </div>
+      <button id="quitBtn" class="btn btn-ghost">Quit</button>
+    </div>
+
+    <div class="test-main">
+      <div class="timer-ring">
+        <svg viewBox="0 0 100 100">
+          <circle class="timer-bg" cx="50" cy="50" r="45"/>
+          <circle id="timerCircle" class="timer-progress" cx="50" cy="50" r="45"/>
+        </svg>
+        <span id="timerText" class="timer-text">15</span>
+      </div>
+
+      <div id="currentWord" class="current-word">READY</div>
+
+      <div class="response-area">
+        <textarea id="responseInput" placeholder="Write your sentence here..." rows="2" maxlength="200" autocomplete="off" spellcheck="false"></textarea>
+        <button id="nextBtn" class="btn btn-secondary">Next Word →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Screen -->
+  <div id="results" class="screen">
+    <div class="container">
+      <header>
+        <h1>Practice Complete</h1>
+        <p class="subtitle">Review your responses below</p>
+      </header>
+
+      <div class="results-summary card">
+        <div class="stat">
+          <span class="stat-value" id="totalAnswered">0</span>
+          <span class="stat-label">Answered</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="totalWords">0</span>
+          <span class="stat-label">Total Words</span>
+        </div>
+      </div>
+
+      <div class="results-actions">
+        <button id="downloadBtn" class="btn btn-outline">Download Results</button>
+        <button id="restartBtn" class="btn btn-primary">Practice Again</button>
+      </div>
+
+      <div id="resultsList" class="results-list"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
