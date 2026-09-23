@@ -1,156 +1,1000 @@
-Success
-Failure
-Leader
-Bravery
-Confidence
-Hard work
-Discipline
-Education
-Teamwork
-Respect
-Courage
-Responsibility
-Dedication
-Loyalty
-Patience
-Wisdom
-Army
-Soldier
-Strategy
-Honesty
-Integrity
-Character
-Knowledge
-Teacher
-Reading
-Morning
-Time
-Service
-Protection
-Defence
-Advice
-Ambitious
-Careful
-Important
-Choice
-Help
-Friendship
-Unity
-Champion
-Pride
-Country
-Freedom
-Necessity
-Accident
-Fear
-Death
-Crisis
-Defeat
-Enemy
-Pain
-Love
-Mother
-Father
-Friend
-Home
-Book
-Rain
-Journey
-Victory
-Hope
-Truth
-Justice
-Peace
-War
-Gun
-Money
-Power
-Dream
-Future
-Past
-Work
-Play
-Sport
-Health
-Mind
-Body
-Speed
-Strength
-Weakness
-Mistake
-Obstacle
-Challenge
-Opportunity
-Motivation
-Inspiration
-Determination
-Focus
-Effort
-Sacrifice
-Honour
-Duty
-Nation
-Flag
-Border
-Enemy
-Ally
-Command
-Mission
-Victory
-Defeat
-Courage
-Fear
-Hope
-Despair
-Light
-Dark
-Life
-Death
-Begin
-End
-Start
-Finish
-Win
-Lose
-Fight
-Surrender
-Rise
-Fall
-Strong
-Weak
-Fast
-Slow
-Smart
-Foolish
-Kind
-Cruel
-Honest
-Liar
-Brave
-Coward
-Leader
-Follower
-Team
-Alone
-Help
-Ignore
-Share
-Keep
-Give
-Take
-Build
-Destroy
-Create
-Ruin
-Learn
-Teach
-Read
-Write
-Speak
-Listen
-Think
-Act
-Plan
-Execute
-Success
-Failure
+1. Success
+2. Failure
+3. Leader
+4. Bravery
+5. Confidence
+6. Hard work
+7. Discipline
+8. Education
+9. Teamwork
+10. Respect
+11. Courage
+12. Responsibility
+13. Dedication
+14. Loyalty
+15. Patience
+16. Wisdom
+17. Army
+18. Soldier
+19. Strategy
+20. Honesty
+21. Integrity
+22. Character
+23. Knowledge
+24. Teacher
+25. Reading
+26. Morning
+27. Time
+28. Service
+29. Protection
+30. Defence
+31. Advice
+32. Ambitious
+33. Careful
+34. Important
+35. Choice
+36. Help
+37. Friendship
+38. Unity
+39. Champion
+40. Pride
+41. Country
+42. Freedom
+43. Necessity
+44. Accident
+45. Fear
+46. Death
+47. Crisis
+48. Defeat
+49. Enemy
+50. Pain
+51. Love
+52. Mother
+53. Father
+54. Friend
+55. Home
+56. Book
+57. Rain
+58. Journey
+59. Victory
+60. Hope
+61. Truth
+62. Justice
+63. Peace
+64. War
+65. Gun
+66. Money
+67. Power
+68. Dream
+69. Future
+70. Past
+71. Work
+72. Play
+73. Sport
+74. Health
+75. Mind
+76. Body
+77. Speed
+78. Strength
+79. Weakness
+80. Mistake
+81. Obstacle
+82. Challenge
+83. Opportunity
+84. Motivation
+85. Inspiration
+86. Determination
+87. Focus
+88. Effort
+89. Sacrifice
+90. Honour
+91. Duty
+92. Nation
+93. Flag
+94. Border
+95. Ally
+96. Command
+97. Mission
+98. Despair
+99. Light
+100. Dark
+101. Life
+102. Begin
+103. End
+104. Start
+105. Finish
+106. Win
+107. Lose
+108. Fight
+109. Surrender
+110. Rise
+111. Fall
+112. Strong
+113. Weak
+114. Fast
+115. Slow
+116. Smart
+117. Foolish
+118. Kind
+119. Cruel
+120. Honest
+121. Liar
+122. Brave
+123. Coward
+124. Follower
+125. Team
+126. Alone
+127. Ignore
+128. Share
+129. Keep
+130. Give
+131. Take
+132. Build
+133. Destroy
+134. Create
+135. Ruin
+136. Learn
+137. Teach
+138. Speak
+139. Listen
+140. Think
+141. Act
+142. Plan
+143. Execute
+144. Ability
+145. Able
+146. Acknowledge
+147. Achieve
+148. Action
+149. Adapt
+150. Admire
+151. Advance
+152. Advantage
+153. Adventure
+154. Affection
+155. Aggression
+156. Agree
+157. Aim
+158. Alert
+159. Alliance
+160. Ambition
+161. Anger
+162. Anxiety
+163. Apology
+164. Appreciate
+165. Approach
+166. Approval
+167. Aptitude
+168. Argument
+169. Armed
+170. Art
+171. Attack
+172. Attempt
+173. Attitude
+174. Attract
+175. Authority
+176. Avoid
+177. Awareness
+178. Awkward
+179. Balance
+180. Barrier
+181. Battle
+182. Beautiful
+183. Belief
+184. Benefit
+185. Best
+186. Betray
+187. Bias
+188. Bitter
+189. Blame
+190. Blood
+191. Bold
+192. Bond
+193. Brave
+194. Break
+195. Bright
+196. Brilliant
+197. Brother
+198. Burden
+199. Calm
+200. Capability
+201. Captain
+202. Care
+203. Career
+204. Caution
+205. Certain
+206. Change
+207. Chaos
+208. Character
+209. Charity
+210. Charm
+211. Cheat
+212. Cheer
+213. Child
+214. Citizen
+215. Clarity
+216. Clever
+217. Climb
+218. Cooperation
+219. Code
+220. Cohesion
+221. Cold
+222. Collaboration
+223. Combat
+224. Combine
+225. Comfort
+226. Command
+227. Commend
+228. Commitment
+229. Common
+230. Communication
+231. Community
+232. Company
+233. Compassion
+234. Compete
+235. Complex
+236. Composure
+237. Compromise
+238. Concentration
+239. Concern
+240. Conclude
+241. Confidence
+242. Conflict
+243. Confusion
+244. Conquer
+245. Conscious
+246. Consent
+247. Consequence
+248. Consider
+249. Consistency
+250. Construct
+251. Contact
+252. Control
+253. Conviction
+254. Cooperation
+255. Coordination
+256. Coping
+257. Core
+258. Correct
+259. Courage
+260. Courtesy
+261. Craft
+262. Creative
+263. Credit
+264. Crime
+265. Critical
+266. Criticism
+267. Crowded
+268. Crucial
+269. Culture
+270. Cure
+271. Curious
+272. Danger
+273. Dare
+274. Dark
+275. Data
+276. Daughter
+277. Dead
+278. Deal
+279. Death
+280. Debate
+281. Decent
+282. Decide
+283. Decision
+284. Dedicate
+285. Defeat
+286. Defence
+287. Defend
+288. Defiance
+289. Delay
+290. Demand
+291. Democracy
+292. Dependable
+293. Depth
+294. Desire
+295. Despair
+296. Destiny
+297. Destroy
+298. Determination
+299. Develop
+300. Devotion
+301. Difference
+302. Difficult
+303. Dignity
+304. Dilemma
+305. Diligence
+306. Diplomacy
+307. Direct
+308. Director
+309. Disagree
+310. Disaster
+311. Discipline
+312. Discovery
+313. Discussion
+314. Disease
+315. Dishonest
+316. Dislike
+317. Distance
+318. Distress
+319. Trust
+320. Diversity
+321. Division
+322. Doctor
+323. Doubt
+324. Draft
+325. Drive
+326. Duty
+327. Dynamic
+328. Eager
+329. Earnest
+330. Economy
+331. Education
+332. Effective
+333. Efficiency
+334. Effort
+335. Elegant
+336. Emergency
+337. Emotion
+338. Empathy
+339. Employ
+340. Encourage
+341. Endure
+342. Enemy
+343. Energy
+344. Engage
+345. Enjoy
+346. Enthusiastic
+347. Equality
+348. Equipment
+349. Error
+350. Escape
+351. Essential
+352. Ethical
+353. Ethics
+354. Evaluation
+355. Excel
+356. Excellence
+357. Exchange
+358. Excitement
+359. Exercise
+360. Expect
+361. Expense
+362. Experience
+363. Expert
+364. Explain
+365. Explore
+366. Express
+367. Failure
+368. Faith
+369. Faithful
+370. Fake
+371. Fame
+372. Family
+373. Famous
+374. Fast
+375. Fear
+376. Fearless
+377. Feedback
+378. Fight
+379. Final
+380. Firm
+381. Fitness
+382. Flag
+383. Flaw
+384. Flexible
+385. Focus
+386. Foe
+387. Force
+388. Foreign
+389. Forgive
+390. Freedom
+391. Friend
+392. Friendship
+393. Frustration
+394. Future
+395. Gain
+396. Gallantry
+397. Generous
+398. Genius
+399. Gentle
+400. Genuine
+401. Goal
+402. Good
+403. Govern
+404. Grace
+405. Gratitude
+406. Great
+407. Grief
+408. Group
+409. Growth
+410. Guard
+411. Guidance
+412. Guide
+413. Guilt
+414. Habit
+415. Handicapped
+416. Hardship
+417. Hardwork
+418. Harmony
+419. Hate
+420. Hazard
+421. Heal
+422. Health
+423. Healthy
+424. Heart
+425. Help
+426. Hero
+427. Heroic
+428. Hesitate
+429. Honest
+430. Honesty
+431. Honour
+432. Hope
+433. Hostile
+434. Human
+435. Humanity
+436. Humble
+437. Humour
+438. Hurt
+439. Idea
+440. Identity
+441. Ignore
+442. Illiteracy
+443. Illness
+444. Imaginative
+445. Immediate
+446. Impact
+447. Important
+448. Impossible
+449. Improve
+450. Impulse
+451. Incapable
+452. Incentive
+453. Independence
+454. Independent
+455. Individual
+456. Industry
+457. Influence
+458. Inform
+459. Initiative
+460. Injury
+461. Innovation
+462. Insult
+463. Integrity
+464. Intellect
+465. Intelligence
+466. Intention
+467. Interest
+468. Interrupt
+469. Introduce
+470. Intuition
+471. Invent
+472. Invest
+473. Iron
+474. Isolation
+475. Jealousy
+476. Job
+477. Join
+478. Joy
+479. Judge
+480. Judgment
+481. Justice
+482. Keen
+483. Keep
+484. Kindness
+485. Knowledge
+486. Labor
+487. Lack
+488. Late
+489. Leader
+490. Leadership
+491. Learn
+492. Liberty
+493. Life
+494. Limit
+495. Listen
+496. Logic
+497. Lonely
+498. Loss
+499. Love
+500. Loyalty
+501. Luck
+502. Mad
+503. Maintain
+504. Majority
+505. Management
+506. Manner
+507. March
+508. Master
+509. Maturity
+510. Maximum
+511. Mind
+512. Miserable
+513. Misfortune
+514. Mission
+515. Mistake
+516. Mix
+517. Mob
+518. Model
+519. Modern
+520. Modest
+521. Money
+522. Moral
+523. Morale
+524. Mother
+525. Motivate
+526. Move
+527. Nation
+528. Nature
+529. Necessary
+530. Need
+531. Negative
+532. Neglect
+533. Nerve
+534. Neutral
+535. New
+536. Noble
+537. Normal
+538. Note
+539. Novel
+540. Obedience
+541. Objective
+542. Obligation
+543. Observation
+544. Obstacle
+545. Obtain
+546. Offence
+547. Officer
+548. Official
+549. Old
+550. Open
+551. Opinion
+552. Opportunity
+553. Oppose
+554. Optimism
+555. Option
+556. Order
+557. Organize
+558. Original
+559. Outcome
+560. Overcome
+561. Pain
+562. Panic
+563. Pardon
+564. Parent
+565. Passion
+566. Patience
+567. Patriot
+568. Peaceful
+569. Penalty
+570. Performance
+571. Peril
+572. Perseverance
+573. Persistence
+574. Person
+575. Persuade
+576. Plan
+577. Pleasant
+578. Pleasure
+579. Pledge
+580. Polite
+581. Poor
+582. Position
+583. Positive
+584. Possibility
+585. Power
+586. Practical
+587. Practice
+588. Praise
+589. Pray
+590. Precaution
+591. Precision
+592. Predict
+593. Prefer
+594. Prejudice
+595. Prepare
+596. Presence
+597. Present
+598. Pressure
+599. Pride
+600. Principle
+601. Priority
+602. Privacy
+603. Privilege
+604. Problem
+605. Procedure
+606. Process
+607. Production
+608. Efficient
+609. Profession
+610. Progress
+611. Project
+612. Promise
+613. Promote
+614. Prompt
+615. Proof
+616. Proper
+617. Property
+618. Proposal
+619. Protect
+620. Proud
+621. Prove
+622. Provide
+623. Provoke
+624. Prudence
+625. Public
+626. Punctual
+627. Punishment
+628. Purpose
+629. Push
+630. Quality
+631. Quarrel
+632. Quest
+633. Question
+634. Quick
+635. Quiet
+636. Race
+637. Rank
+638. Rapid
+639. Rash
+640. Rational
+641. Read
+642. Readiness
+643. Real
+644. Reality
+645. Reason
+646. Reasonable
+647. Rebel
+648. Receive
+649. Recognition
+650. Recommendation
+651. Reconcile
+652. Recovery
+653. Recruit
+654. Reduce
+655. Refuse
+656. Regret
+657. Regular
+658. Regulation
+659. Reject
+660. Relation
+661. Relax
+662. Reliable
+663. Relief
+664. Religion
+665. Reluctance
+666. Remark
+667. Remedy
+668. Remember
+669. Remorse
+670. Renew
+671. Renounce
+672. Repair
+673. Repeat
+674. Repent
+675. Replace
+676. Reply
+677. Report
+678. Represent
+679. Repression
+680. Reputation
+681. Request
+682. Rescue
+683. Research
+684. Resentment
+685. Reserve
+686. Resign
+687. Resilience
+688. Resist
+689. Resolution
+690. Resource
+691. Respect
+692. Response
+693. Responsibility
+694. Rest
+695. Result
+696. Retire
+697. Return
+698. Revenge
+699. Revere
+700. Review
+701. Reward
+702. Rich
+703. Right
+704. Risk
+705. Rival
+706. Role
+707. Routine
+708. Rude
+709. Rule
+710. Rumor
+711. Run
+712. Rush
+713. Sacrifice
+714. Sad
+715. Safe
+716. Safety
+717. Salary
+718. Sanction
+719. Satisfaction
+720. Save
+721. Schedule
+722. Scheme
+723. Science
+724. Scold
+725. Score
+726. Search
+727. Secret
+728. Security
+729. Seek
+730. Selection
+731. Self
+732. Selfish
+733. Sense
+734. Sensible
+735. Separate
+736. Serious
+737. Servant
+738. Serve
+739. Service
+740. Setback
+741. Settle
+742. Severe
+743. Shame
+744. Share
+745. Sharp
+746. Shelter
+747. Shield
+748. Shock
+749. Shortcoming
+750. Shout
+751. Signal
+752. Signature
+753. Silence
+754. Silly
+755. Simple
+756. Sincere
+757. Skill
+758. Sloth
+759. Slow
+760. Small
+761. Smart
+762. Smile
+763. Social
+764. Society
+765. Soldier
+766. Solemn
+767. Solid
+768. Solitary
+769. Solution
+770. Solve
+771. Sorrow
+772. Soul
+773. Sound
+774. Source
+775. Space
+776. Spare
+777. Speak
+778. Special
+779. Speed
+780. Spend
+781. Spirit
+782. Spiritual
+783. Splendid
+784. Sport
+785. Spot
+786. Stability
+787. Staff
+788. Stamina
+789. Standard
+790. Standing
+791. Start
+792. State
+793. Statement
+794. Station
+795. Status
+796. Stay
+797. Steady
+798. Step
+799. Stiff
+800. Stop
+801. Storm
+802. Story
+803. Strain
+804. Strategy
+805. Strength
+806. Stress
+807. Strict
+808. Struggle
+809. Stubborn
+810. Student
+811. Study
+812. Stupid
+813. Style
+814. Subject
+815. Submit
+816. Success
+817. Suffer
+818. Suggest
+819. Support
+820. Surprise
+821. Surrender
+822. Survive
+823. Suspicion
+824. System
+825. Tactical
+826. Talent
+827. Talk
+828. Target
+829. Task
+830. Teach
+831. Teacher
+832. Team
+833. Teamwork
+834. Temper
+835. Temporary
+836. Tender
+837. Tension
+838. Test
+839. Thank
+840. Theory
+841. Think
+842. Thought
+843. Threat
+844. Time
+845. Timid
+846. Tired
+847. Tolerant
+848. Tough
+849. Trade
+850. Tradition
+851. Train
+852. Training
+853. Traitor
+854. Tranquility
+855. Transform
+856. Travel
+857. Treason
+858. Treat
+859. Treatment
+860. Trial
+861. Tribute
+862. Trick
+863. Victory
+864. Trouble
+865. Trust
+866. Truth
+867. Try
+868. Turn
+869. Ultimate
+870. Uncertain
+871. Understanding
+872. Undertake
+873. Unfair
+874. Uniform
+875. Union
+876. Unity
+877. Universal
+878. Urgent
+879. Useful
+880. Useless
+881. Vacancy
+882. Vague
+883. Valour
+884. Value
+885. Variety
+886. Vast
+887. Venture
+888. Victory
+889. Vigor
+890. Violence
+891. Virtue
+892. Vision
+893. Vital
+894. Voice
+895. Voluntary
+896. Volunteer
+897. Vow
+898. Vulnerable
+899. War
+900. Warm
+901. Warning
+902. Waste
+903. Watch
+904. Weakness
+905. Wealth
+906. Weapon
+907. Welfare
+908. Well
+909. Win
+910. Wisdom
+911. Wish
+912. Withdraw
+913. Work
+914. Worry
+915. Worth
+916. Wound
+917. Wrong
+918. Yield
+919. Young
+920. Youth
+921. Zeal
+922. Zero
+923. Accuse
+924. Act
+925. Active
+926. Adaptation
+927. Admirable
+928. Advantageous
+929. Adverse
+930. Affectionate
+931. Alertness
+932. Altruism
+933. Ambiguity
+934. Amicable
+935. Appreciation
+936. Argumentative
+937. Assertive
+938. Assistant
+939. Astute
+940. Attentive
+941. Authenticity
+942. Benevolent
+943. Boldness
+944. Bravery
+945. Brotherhood
+946. Calmness
+947. Capacity
+948. Careless
+949. Changeable
+950. Chivalry
+951. Clarity
+952. Coercion
+953. Cognition
+954. Collaborative
+955. Collective
+956. Collegial
+957. Commandment
+958. Compassionate
+959. Compatible
+960. Complacency
+961. Complexion
+962. Composure
+963. Comprehensive
+964. Compromising
+965. Conceal
+966. Concentration
+967. Concept
+968. Concise
+969. Conduct
+970. Confidence
+971. Conscientious
+972. Conscious
+973. Consensus
+974. Considerate
+975. Constructive
+976. Contemplation
+977. Contentment
+978. Cooperation
+979. Courageous
+980. Courteous
+981. Creativity
+982. Criticality
+983. Cruelty
+984. Curiosity
+985. Decision-making
+986. Dedication
+987. Defence
+988. Defensive
+989. Deliberate
+990. Dependability
+991. Determination
+992. Diligent
+993. Diplomatic
+994. Discipline
+995. Discretion
+996. Empathy
+997. Endurance
+998. Enthusiasm
+999. Execution
+1000. Victory
